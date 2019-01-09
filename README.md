@@ -1,2 +1,2 @@
 # best-repo-ever
-GitHub badge for Salesforce Trailhead new-branch-2
+GitHub badge for Salesforce Trailhead new-branch-1
